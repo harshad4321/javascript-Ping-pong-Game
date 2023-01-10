@@ -1,1 +1,1 @@
-[![Watch the video](Pong Game JavaScript - Google Chrome 2023-01-10 17-01-30)]
+[![Watch the video](Pong-Game-JavaScript-GoogleChrome2023-01-10.mp4)]
