@@ -1,1 +1,1 @@
-[![Watch the video](Pong-Game-JavaScript-GoogleChrome2023-01-10.mp4)]
+[![Watch the video](Pong-Game-JavaScript-GoogleChrome2023-01-10.mp4)](Pong-Game-JavaScript-GoogleChrome2023-01-10.mp4)
