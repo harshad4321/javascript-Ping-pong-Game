@@ -1,1 +1,6 @@
-[![Watch the video](Pong-Game-JavaScript-GoogleChrome2023-01-10.mp4)](Pong-Game-JavaScript-GoogleChrome2023-01-10.mp4)
+# javascript-Ping-pong-Game
+
+.just a sample 
+
+
+![image alt text](https://media.giphy.com/media/aTGwuEFyg6d8c/giphy.gif)
